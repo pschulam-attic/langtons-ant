@@ -1,4 +1,4 @@
-langtons_ant
+langtons-ant
 ============
 
 Implementation of Langton's Ant. To view an image of a 92x92 board
